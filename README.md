@@ -1,23 +1,16 @@
 # OSZxing
 this project base on google os project Zxing,and i compile it for  the convenience of others.
 
-![Blog](http://blog.csdn.net/ostea)
+[Blog](http://blog.csdn.net/ostea)
 
 This project aim to simplify compilation of Zxing for android qrcode
 
 I'm afraid this project is not prepared for android beginners - build it and using it requires some maven skills. 
 
 
-## License
-Copyright (C) 2015 ostea.com
+## Introduction
 
-
-FFmpeg, libvo-aacenc, vo-amrwbenc, libyuv and others libraries projects are distributed on theirs own license.
-
-
-
-## Installation
-
+Make some summary base on OS Zxing  
 
 
 ## Credits
