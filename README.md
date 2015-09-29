@@ -1,5 +1,6 @@
 # OSZxing
-this project base on google os project Zxing,and i compile it for  the convenience of others.
+
+The project is base on the Zxing by google,a open source project.
 
 [Blog](http://blog.csdn.net/ostea)
 
