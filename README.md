@@ -2,7 +2,7 @@
 
 The project is base on the Zxing by google,a open source project.
 
-[Blog](http://blog.csdn.net/ostea)
+[Bolg,http://blog.csdn.net/ostea](http://blog.csdn.net/ostea)
 
 This project aim to simplify compilation of Zxing for android qrcode
 
