@@ -40,6 +40,7 @@ import android.view.View;
 
 /**
  * @author ostea
+ * @see 差点吓死我了，密码丢了。
  */
 public final class ZXingTestActivity extends Activity {
 
